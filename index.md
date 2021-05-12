@@ -8,17 +8,17 @@ Please note that the noisy samples are fairly loud.
 
 | **Noisy** | **BNAF** | **DAE** | **Clean** |  
 | --- | --- | --- | --- |  
-| <audio controls=""> <source src="bnaf_sg/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/o_0.wav"> </audio> | <audio controls=""> <source src="dae_sg/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/y_0.wav"> </audio> |  
-| <audio controls=""> <source src="bnaf_sg/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/o_1.wav"> </audio> | <audio controls=""> <source src="dae_sg/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/y_1.wav"> </audio> |  
-| <audio controls=""> <source src="bnaf_sg/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/o_2.wav"> </audio> | <audio controls=""> <source src="dae_sg/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/y_2.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_sg/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/o_0.wav"> </audio> | <audio controls=""> <source src="dae_sg/o_0.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/y_0.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_sg/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/o_1.wav"> </audio> | <audio controls=""> <source src="dae_sg/o_1.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/y_1.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_sg/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/o_2.wav"> </audio> | <audio controls=""> <source src="dae_sg/o_2.wav"> </audio> | <audio controls=""> <source src="bnaf_sg/y_2.wav"> </audio> |  
 
 ### Rand Sine Gauss Dataset
 
 | **Noisy** | **BNAF** | **DAE** | **Clean** |  
 | --- | --- | --- | --- |  
-| <audio controls=""> <source src="bnaf_rsg/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/o_0.wav"> </audio> | <audio controls=""> <source src="dae_rsg/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/y_0.wav"> </audio> |  
-| <audio controls=""> <source src="bnaf_rsg/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/o_1.wav"> </audio> | <audio controls=""> <source src="dae_rsg/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/y_1.wav"> </audio> |  
-| <audio controls=""> <source src="bnaf_rsg/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/o_2.wav"> </audio> | <audio controls=""> <source src="dae_rsg/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/y_2.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_rsg/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/o_0.wav"> </audio> | <audio controls=""> <source src="dae_rsg/o_0.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/y_0.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_rsg/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/o_1.wav"> </audio> | <audio controls=""> <source src="dae_rsg/o_1.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/y_1.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_rsg/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/o_2.wav"> </audio> | <audio controls=""> <source src="dae_rsg/o_2.wav"> </audio> | <audio controls=""> <source src="bnaf_rsg/y_2.wav"> </audio> |  
 
 ### Rand Sine Noise Dataset
 
@@ -40,6 +40,6 @@ Please note that the noisy samples are fairly loud.
 
 | **Noisy** | **BNAF** | **DAE** | **Clean** |  
 | --- | --- | --- | --- |  
-| <audio controls=""> <source src="bnaf_kn/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/o_0.wav"> </audio> | <audio controls=""> <source src="dae_kn/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/y_0.wav"> </audio> |  
-| <audio controls=""> <source src="bnaf_kn/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/o_1.wav"> </audio> | <audio controls=""> <source src="dae_kn/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/y_1.wav"> </audio> |  
-| <audio controls=""> <source src="bnaf_kn/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/o_2.wav"> </audio> | <audio controls=""> <source src="dae_kn/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/y_2.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_kn/x_0.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/o_0.wav"> </audio> | <audio controls=""> <source src="dae_kn/o_0.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/y_0.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_kn/x_1.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/o_1.wav"> </audio> | <audio controls=""> <source src="dae_kn/o_1.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/y_1.wav"> </audio> |  
+| <audio controls=""> <source src="bnaf_kn/x_2.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/o_2.wav"> </audio> | <audio controls=""> <source src="dae_kn/o_2.wav"> </audio> | <audio controls=""> <source src="bnaf_kn/y_2.wav"> </audio> |  
